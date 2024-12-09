@@ -68,6 +68,8 @@ Developed by: SYED SAIF SYED GHOUSE
 RegisterNumber: 24009014
 
 
+
+
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
 ![Screenshot 2024-12-09 214633](https://github.com/user-attachments/assets/f786c0fb-504f-409e-9874-269fac77b232)
